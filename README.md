@@ -78,4 +78,4 @@
 
 ## 📄 许可证 (License)
 
-本项目采用 [AGPL-3.0-only](https://github.com/zhumengstarsandsea/Chinese_University_MOOC_Enhancer/blob/main/LICENSE) 许可证。
+本项目采用 [AGPL-3.0](https://github.com/zhumengstarsandsea/Chinese_University_MOOC_Enhancer/blob/main/LICENSE) 许可证。
