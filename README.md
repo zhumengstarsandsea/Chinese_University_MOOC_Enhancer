@@ -8,7 +8,7 @@
     <a href="https://github.com/zhumengstarsandsea/Chinese_University_MOOC_Enhancer">
       <img src="https://img.shields.io/badge/GitHub-仓库-blue?style=flat-square&logo=github" alt="GitHub Repo"></a>
     </a>
-    <a href="https://greasyfork.org/zh-CN/scripts/543446-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc-%E6%85%95%E8%AF%BE-%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA-chinese-university-mooc-enhancer"> <img src="https://img.shields.io/badge/GreasyFork-发布-green?style=flat-square&logo=git" alt="GreasyFork"></a>
+    <a href="https://greasyfork.org/zh-CN/scripts/543450-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc-%E6%85%95%E8%AF%BE-%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA-chinese-university-mooc-enhancer"> <img src="https://img.shields.io/badge/GreasyFork-发布-green?style=flat-square&logo=git" alt="GreasyFork"></a>
     </a>
     <a href="https://openuserjs.org/scripts/%E9%80%90%E6%A2%A6%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6MOOC(%E6%85%95%E8%AF%BE)%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA_Chinese_University_MOOC_Enhancer"> <img src="https://img.shields.io/badge/OpenUserJS-发布-orange?style=flat-square&logo=javascript" alt="OpenUserJS"></a>
     </a>
@@ -53,7 +53,7 @@
 
 3.  然后，从以下任一地址安装本脚本：
 
-    *  <img src="https://github.com/greasyfork-org/greasyfork/blob/main/public/images/blacklogo32.png" height="16" alt="GreasyFork Logo" style="vertical-align: -0.2em;"> **[GreasyFork](https://greasyfork.org/zh-CN/scripts/543446-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc-%E6%85%95%E8%AF%BE-%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA-chinese-university-mooc-enhancer)** (推荐，稳定发布版)
+    *  <img src="https://github.com/greasyfork-org/greasyfork/blob/main/public/images/blacklogo32.png" height="16" alt="GreasyFork Logo" style="vertical-align: -0.2em;"> **[GreasyFork](https://greasyfork.org/zh-CN/scripts/543450-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc-%E6%85%95%E8%AF%BE-%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA-chinese-university-mooc-enhancer)** (推荐，稳定发布版)
     * <img src="https://github.com/fluidicon.png" height="16" alt="GitHub Logo" style="vertical-align: -0.2em;"> **[GitHub](https://github.com/zhumengstarsandsea/Chinese_University_MOOC_Enhancer/releases/tag/new)** (获取最新开发版)
     *  <img src="https://github.com/OpenUserJS/OpenUserJS.org/blob/master/public/images/favicon32.png" height="16" alt="OpenUserJS Logo" style="vertical-align: -0.2em;"> **[OpenUserJS](https://openuserjs.org/scripts/%E9%80%90%E6%A2%A6%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6MOOC(%E6%85%95%E8%AF%BE)%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA_Chinese_University_MOOC_Enhancer)** (备用发布地址)
 ---
@@ -78,4 +78,4 @@
 
 ## 📄 许可证 (License)
 
-本项目采用 [AGPL-3.0](https://github.com/zhumengstarsandsea/Chinese_University_MOOC_Enhancer/blob/main/LICENSE) 许可证。
+本项目采用 [AGPL-3.0-only](https://github.com/zhumengstarsandsea/Chinese_University_MOOC_Enhancer/blob/main/LICENSE) 许可证。
