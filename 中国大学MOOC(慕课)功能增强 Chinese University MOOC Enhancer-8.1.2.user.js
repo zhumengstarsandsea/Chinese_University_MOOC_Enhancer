@@ -11,7 +11,6 @@
 // @match        https://www.icourse163.org/learn/*
 // @match        https://www.icourse163.org/spoc/learn/*
 // @grant        GM_addStyle
-// @grant        GM_info
 // @grant        GM_registerMenuCommand
 // @run-at       document-start
 // @downloadURL https://update.greasyfork.org/scripts/543446/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6MOOC%28%E6%85%95%E8%AF%BE%29%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%20Chinese%20University%20MOOC%20Enhancer.user.js
