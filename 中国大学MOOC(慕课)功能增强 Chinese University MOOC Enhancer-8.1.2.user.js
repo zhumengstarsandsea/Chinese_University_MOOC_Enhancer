@@ -7,7 +7,7 @@
 // @description  一个旨在增强中国大学MOOC的视频学习体验的油猴脚本。
 // @description:zh-cn  一个旨在增强中国大学MOOC的视频学习体验的油猴脚本。
 // @author       zhumengstarsandsea
-// @license      AGPL-3.0
+// @license      AGPL-3.0-only
 // @match        https://www.icourse163.org/learn/*
 // @match        https://www.icourse163.org/spoc/learn/*
 // @grant        GM_addStyle
